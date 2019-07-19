@@ -1,5 +1,5 @@
 This repository is a component generator with plop.
-
+with ### `npm run generate componentName`, you can create component with the template you specified.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
